@@ -1,0 +1,6 @@
+@AggregatorNotifaction_HostAddress = http://localhost:5139
+
+GET {{AggregatorNotifaction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
